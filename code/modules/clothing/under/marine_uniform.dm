@@ -420,7 +420,7 @@
 	flags_atom = NO_GAMEMODE_SKIN|NO_NAME_OVERRIDE
 
 	name = "\improper Provost Uniform"
-	desc = "The crisp uniform of a Provost Officer."
+	desc = "A Standard issue BDU, this one with a patch denoting the wearer as an MP, often worn by MP's at Chinook."
 	icon = 'icons/obj/items/clothing/uniforms/uniforms_by_faction/UA.dmi'
 	item_icons = list(
 		WEAR_BODY = 'icons/mob/humans/onmob/clothing/uniforms/uniforms_by_faction/UA.dmi',
@@ -441,20 +441,9 @@
 /obj/item/clothing/under/marine/mp/provost/senior
 	name = "\improper Provost Senior Uniform"
 	desc = "The crisp uniform of a senior member of the Provost Office."
-	icon_state = "provost_tml"
-	worn_state = "provost_tml"
-
-/obj/item/clothing/under/marine/mp/provost/chief
-	name = "\improper Provost Command Uniform"
-	desc = "The crisp uniform of a commanding member of the Provost Office."
 	icon_state = "provost_ci"
 	worn_state = "provost_ci"
 
-/obj/item/clothing/under/marine/mp/provost/marshal
-	name = "\improper Provost Marshal Uniform"
-	desc = "The crisp uniform of a Provost Marshal."
-	icon_state = "provost_marshal"
-	worn_state = "provost_marshal"
 
 //=========================//USCM Survivors\\================================\\
 //=======================================================================\\

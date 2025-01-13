@@ -661,14 +661,15 @@ GLOBAL_LIST_INIT(allowed_hat_items, list(
 	)
 
 
-/obj/item/clothing/head/beret/marine/mp/provost/senior
-	name = "\improper USCM senior provost beret"
-	desc = "A beret with the USCM Military Police insignia emblazoned on it."
-	icon_state = "coblackberet"
+/obj/item/clothing/head/beret/marine/mp/provost/epeaked
+	name = "\improper USCM Military Police Enlisted Peaked Cap"
+	desc = "A Peaked cap worn by members of the Military police."
+	icon_state = "e_mppeaked"
 
-/obj/item/clothing/head/beret/marine/mp/provost/chief
-	name = "\improper USCM provost command beret"
-	icon_state = "pvciberet"
+/obj/item/clothing/head/beret/marine/mp/provost/opeaked
+	name = "\improper USCM Military Police Officer Peaked Cap"
+	desc = "A Peaked cap worn by members of the Military police."
+	icon_state = "o_mppeaked"
 
 /obj/item/clothing/head/beret/marine/commander
 	name = "marine commanding officer beret"

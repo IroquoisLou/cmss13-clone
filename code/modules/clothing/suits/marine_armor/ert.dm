@@ -793,23 +793,23 @@
 	item_state_slots = list(WEAR_JACKET = "pvleader")
 
 /obj/item/clothing/suit/storage/marine/MP/provost/marshal
-	name = "\improper M5 pattern Provost Marshal armor"
-	desc = "A custom fit luxury armor suit for Provost Marshals. Useful for letting your men know who is in charge when taking to the field."
+	name = "\improper M3 pattern Provost Marshal Vest"
+	desc = "A simple Urban MP vest, often worn by Provost marshal's due to it's lightweight"
 	icon_state = "pvmarshal"
 	item_state_slots = list(WEAR_JACKET = "pvmarshal")
 	w_class = SIZE_MEDIUM
 	storage_slots = 4
 
 /obj/item/clothing/suit/storage/marine/MP/provost/light
-	name = "\improper M3 pattern Provost light armor"
-	desc = "A lighter Provost M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage."
+	name = "\improper M3 pattern Military Police light armor"
+	desc = "A light M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage."
 	icon_state = "pvlight"
 	item_state_slots = list(WEAR_JACKET = "pvlight")
 	slowdown = SLOWDOWN_ARMOR_VERY_LIGHT
 
 /obj/item/clothing/suit/storage/marine/MP/provost/light/flexi
-	name = "\improper M3 pattern Provost flexi-armor"
-	desc = "A flexible and easy to store M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage."
+	name = "\improper M3 pattern Provost Ultralight"
+	desc = "An easy to store M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage."
 	w_class = SIZE_MEDIUM
 	icon_state = "pvlight_2"
 	item_state_slots = list(WEAR_JACKET = "pvlight_2")

@@ -1026,8 +1026,8 @@ GLOBAL_LIST_INIT(allowed_helmet_items, list(
 	built_in_visors = list(new /obj/item/device/helmet_visor, new /obj/item/device/helmet_visor/medical/advanced)
 
 /obj/item/clothing/head/helmet/marine/MP/provost/marshal
-	name = "\improper Provost Marshal Cap"
-	desc = "The expensive headwear of a Provost Marshal. Contains shards of kevlar to keep its valuable contents safe."
+	name = "\improper M10 Pattern MP Helmet"
+	desc = "A Variant of the standard M10 Helmet, often worn by MP's at Chinook Station."
 	icon_state = "pvmarshalhat"
 	item_state = "pvmarshalhat"
 	icon = 'icons/obj/items/clothing/hats/hats_by_faction/UA.dmi'
@@ -1036,6 +1036,7 @@ GLOBAL_LIST_INIT(allowed_helmet_items, list(
 	)
 	flags_atom = NO_GAMEMODE_SKIN|NO_NAME_OVERRIDE
 	flags_inventory = BLOCKSHARPOBJ|FULL_DECAP_PROTECTION
+	built_in_visors = list(new /obj/item/device/helmet_visor/security)
 
 /obj/item/clothing/head/helmet/marine/sof
 	name = "\improper SOF Operator Helmet"
