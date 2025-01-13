@@ -286,7 +286,7 @@
 	name = "Provost Inspector"
 	assignment = JOB_PROVOST_INSPECTOR
 	rank = JOB_PROVOST_INSPECTOR
-	paygrades = list(PAY_SHORT_MO3 = JOB_PLAYTIME_TIER_0)
+	paygrades = list(PAY_SHORT_MO4 = JOB_PLAYTIME_TIER_0)
 	role_comm_title = "PvI"
 	flags = EQUIPMENT_PRESET_EXTRA
 	minimap_icon = "pve_inspector"
