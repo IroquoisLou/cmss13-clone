@@ -286,7 +286,7 @@
 	name = "Provost Inspector"
 	assignment = JOB_PROVOST_INSPECTOR
 	rank = JOB_PROVOST_INSPECTOR
-	paygrades = list(PAY_SHORT_MO4 = JOB_PLAYTIME_TIER_0)
+	paygrades = list(PAY_SHORT_PVI = JOB_PLAYTIME_TIER_0)
 	role_comm_title = "PvI"
 	flags = EQUIPMENT_PRESET_EXTRA
 	minimap_icon = "pve_inspector"
@@ -322,7 +322,7 @@
 	name = "Provost Chief Inspector"
 	assignment = JOB_PROVOST_CINSPECTOR
 	rank = JOB_PROVOST_CINSPECTOR
-	paygrades = list(PAY_SHORT_MO5 = JOB_PLAYTIME_TIER_0)
+	paygrades = list(PAY_SHORT_PVCI = JOB_PLAYTIME_TIER_0)
 	role_comm_title = "PvCI"
 	flags = EQUIPMENT_PRESET_EXTRA
 	minimap_icon = "pve_chief_inspector"
@@ -370,7 +370,7 @@
 
 	assignment = JOB_PROVOST_DMARSHAL
 	rank = JOB_PROVOST_DMARSHAL
-	paygrades = list(PAY_SHORT_MO6 = JOB_PLAYTIME_TIER_0)
+	paygrades = list(PAY_SHORT_PVDM = JOB_PLAYTIME_TIER_0)
 	role_comm_title = PAY_SHORT_PVDM
 	flags = EQUIPMENT_PRESET_EXTRA
 	minimap_icon = "deputy"
@@ -382,7 +382,7 @@
 
 	assignment = JOB_PROVOST_MARSHAL
 	rank = "Provost Marshal"
-	paygrades = list(PAY_SHORT_MO7 = JOB_PLAYTIME_TIER_0)
+	paygrades = list(PAY_SHORT_PVM = JOB_PLAYTIME_TIER_0)
 	role_comm_title = PAY_SHORT_PVM
 	flags = EQUIPMENT_PRESET_EXTRA
 	minimap_icon = "deputy"
@@ -416,7 +416,7 @@
 
 	assignment = JOB_PROVOST_SMARSHAL
 	rank = "Provost Sector Marshal"
-	paygrades = list(PAY_SHORT_MO8 = JOB_PLAYTIME_TIER_0)
+	paygrades = list(PAY_SHORT_PVSM = JOB_PLAYTIME_TIER_0)
 	role_comm_title = PAY_SHORT_PVSM
 
 /datum/equipment_preset/uscm_event/provost/marshal/chief
@@ -425,7 +425,7 @@
 
 	assignment = JOB_PROVOST_CMARSHAL
 	rank = "Provost Chief Marshal"
-	paygrades = list(PAY_SHORT_MO9 = JOB_PLAYTIME_TIER_0)
+	paygrades = list(PAY_SHORT_PVCM = JOB_PLAYTIME_TIER_0)
 	role_comm_title = PAY_SHORT_PVCM
 
 /*****************************************************************************************************/
