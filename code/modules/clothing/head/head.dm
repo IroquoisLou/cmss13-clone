@@ -986,8 +986,8 @@ GLOBAL_LIST_INIT(allowed_hat_items, list(
 	icon_state = "bucket"
 
 /obj/item/clothing/head/general
-	name = "\improper armored General cap"
-	desc = "A sturdy general officer's cap. More protective than it seems. Please don't ditch this for a helmet like a punk."
+	name = "\improper USCM Woodland Officer cap"
+	desc = "A Woodland Camo Officer Cap, often worn by generals."
 	icon_state = "general_helmet"
 	icon = 'icons/obj/items/clothing/hats/hats_by_faction/UA.dmi'
 	item_icons = list(

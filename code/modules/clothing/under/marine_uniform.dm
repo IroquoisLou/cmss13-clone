@@ -263,8 +263,8 @@
 	specialty = "USCM officer"
 
 /obj/item/clothing/under/marine/officer/general
-	name = "general uniform"
-	desc = "A uniform worn by a fleet general. It comes in a shade of deep black, and has a light shimmer to it. The weave looks strong enough to provide some light protections."
+	name = "USCM Woodland Officer uniform"
+	desc = "A USCM Woodland Officer uniform, often worn by generals."
 	icon_state = "general_jumpsuit"
 	worn_state = "general_jumpsuit"
 	icon = 'icons/obj/items/clothing/uniforms/uniforms_by_faction/UA.dmi'
