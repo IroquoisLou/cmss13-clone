@@ -271,3 +271,69 @@
 		```
 	"}
 	live_preview = TRUE
+
+/obj/item/lore_book/tman_page
+	book_title = "United States Colonial Marines: Technical Manual"
+	book_author = "L.B Wood"
+	book_contents = @{"
+		# THE UNITED STATES COLONIAL MARINES
+
+		# 1.0 THE CORPS
+
+		```
+		"From the balls of Hancock's juniors,
+		To the shores of Misery;
+		We will curse our country's leaders,
+		'Cross the stars, on land and sea;
+		First to fight the distant corporate wars,
+		Spill our blood for a sheaf of green
+		We will do or die, we ask not why,
+		'Cuz we're COLONIAL MARINES."
+
+		- Unofficial arrangement of the Marines' Hymn (trad.) Note, the first line refers to
+		Maj.Gen. Gayls B.Hancock, the legendary commanding officer of the Colonial Marine
+		Officers Candidate school, Quantico, VA during the '60s and Early '70s. The Misery Refer-
+		ence is to Tamburro satation, one of the remotest Marine garrisons, orbiting Myssa 340 (78
+		Nu Ceti III).*
+
+		```
+
+		## 1.1 THE UNITED STATES COLONIAL MARINES (USCM)
+
+		The **United States Colonial Marine Corps** is America's interstellar force-in-
+		readiness. This role, distinct from that of the US Army, stems from the coun-
+		try's position as a starfaring, colonising power, and its leading role within
+		the structure of the United Americas. Though the term 'Marine' has its roots in
+		describing a soldier who fought from ships at sea, in the modern era it has
+		become synonymous with those elite forces of soldiers who are always ready to
+		fight, regardless of their nation's readiness for war, and those who are capable of
+		operating far from their home soil. The Colonial Marine Corps has a dual respon-
+		siblity. First, to serve on land, on sea, in air, and in space; second, to
+		exploit the advantages of readiness and interstellar deployment capablitity.
+
+		The capablitity to project power across the vast reaches of space to the surface
+		of a distant world is an essential element of national startegy, Colonial Marine
+		forces, operating with the space fleet, are the nation's only major means to
+		forcibly enter any hostile area from space. Their versatility and respon-
+		siveness add a significant dimension to the options available to the National
+		Command Authority in time of crisis
+
+
+
+		The National Security Act of 2101 established the Colonial Marines structure as
+		four combay divisions and four aerospace wings, plus the support services organ-
+		ic to these formations. At present, fiscal year (FY) 2179, Colonial Marine Corps
+		Strength stands at 165,000 Marines; roughly the same figure as at the turn of
+		the century, though this has declined from a peak of 240,000 in FY 2165 at the
+		end of the Tientsin (8 Eta Bootis A III) campaign. Reserve manpower stands at
+		around 50,000, comprising a fifth division and aerospace wing.
+
+		The USCM is fully intergrated into the joint command structure of the United
+		Americas Allied Command (UAAC) and forms the major striking element of the UA
+		Forces. Within the UAAC, the Colonial Marine Corps is tasked with maintaining
+		the collective security of all UA signatories and their recognized interstellar
+		colonies within the frontiers of the Network. Operating in tandem with local
+		forces, the USCM is often the first line of defense and the vanguard of any coun-
+		terattack
+	"}
+	live_preview = TRUE
