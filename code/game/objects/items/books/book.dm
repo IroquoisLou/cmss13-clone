@@ -276,6 +276,23 @@
 	book_title = "United States Colonial Marines: Technical Manual"
 	book_author = "L.B Wood"
 	book_contents = @{"
+
+		# UNIT 1:THE UNITED STATES MARINE CORPS  6
+
+		# UNIT 2:COLONIAL MARINE INFANTRY 12
+
+		# UNIT 3:AEROSPACE OPERATIONS 40
+
+		# UNIT 4:HEAVY WEAPONS AND ARMOR 68
+
+		# UNIT 5:COMBAT SUPPORT 92
+
+		# UNIT 6:SPACE TRANSPORT 116
+
+		# UNIT 7 ALIENS 134
+
+
+
 		# THE UNITED STATES COLONIAL MARINES
 
 		# 1.0 THE CORPS
@@ -290,13 +307,15 @@
 		We will do or die, we ask not why,
 		'Cuz we're COLONIAL MARINES."
 
-		- Unofficial arrangement of the Marines' Hymn (trad.) Note, the first line refers to
-		Maj.Gen. Gayls B.Hancock, the legendary commanding officer of the Colonial Marine
-		Officers Candidate school, Quantico, VA during the '60s and Early '70s. The Misery Refer-
-		ence is to Tamburro satation, one of the remotest Marine garrisons, orbiting Myssa 340 (78
-		Nu Ceti III).*
+		- Unofficial arrangement of the Marines' Hymn (trad.) Note, the first
+		line refers to Maj.Gen. Gayls B.Hancock, the legendary commanding
+		officer of the Colonial Marine Officers Candidate school, Quantico, VA
+		during the '60s and Early '70s. The Misery Refer-
+		ence is to Tamburro satation, one of the remotest Marine garrisons,
+		orbiting Myssa 340 (78 Nu Ceti III).
 
 		```
+
 
 		## 1.1 THE UNITED STATES COLONIAL MARINES (USCM)
 
@@ -311,6 +330,7 @@
 		siblity. First, to serve on land, on sea, in air, and in space; second, to
 		exploit the advantages of readiness and interstellar deployment capablitity.
 
+
 		The capablitity to project power across the vast reaches of space to the surface
 		of a distant world is an essential element of national startegy, Colonial Marine
 		forces, operating with the space fleet, are the nation's only major means to
@@ -319,14 +339,14 @@
 		Command Authority in time of crisis
 
 
-
 		The National Security Act of 2101 established the Colonial Marines structure as
-		four combay divisions and four aerospace wings, plus the support services organ-
+		four combat divisions and four aerospace wings, plus the support services organ-
 		ic to these formations. At present, fiscal year (FY) 2179, Colonial Marine Corps
 		Strength stands at 165,000 Marines; roughly the same figure as at the turn of
 		the century, though this has declined from a peak of 240,000 in FY 2165 at the
 		end of the Tientsin (8 Eta Bootis A III) campaign. Reserve manpower stands at
 		around 50,000, comprising a fifth division and aerospace wing.
+
 
 		The USCM is fully intergrated into the joint command structure of the United
 		Americas Allied Command (UAAC) and forms the major striking element of the UA
