@@ -279,18 +279,48 @@
 
 		# UNIT 1:THE UNITED STATES MARINE CORPS  6
 
+
 		# UNIT 2:COLONIAL MARINE INFANTRY 12
+
 
 		# UNIT 3:AEROSPACE OPERATIONS 40
 
+
 		# UNIT 4:HEAVY WEAPONS AND ARMOR 68
+
 
 		# UNIT 5:COMBAT SUPPORT 92
 
+
 		# UNIT 6:SPACE TRANSPORT 116
+
 
 		# UNIT 7 ALIENS 134
 
+		```
+		"There's this colony - outbound in
+		the arm - on some Terraformed rock-
+		ball orbiting Zeta Reticuli.
+		Apprarently, some crazy woman appeared
+		at Gateway six months back, said she
+		landed on the place back in the
+		'20's and some bugs - big alien
+		sonofabitches - overran her ship and
+		ate her crew. She said she escaped by
+		blowing the bugs out the airlock
+		and then froze herself until a rescue
+		ship came along - nearly sixty years
+		later! Anyway, th' ICC asks Space
+		Command to send in some squads of
+		Colonial Marines, armed to the teeth
+		and ready for bear, to recon the
+		planet.
+
+		"They never came back.
+
+		"True Story."
+
+		- L/Cpl Jim Kasulka, USCM
 
 
 		# THE UNITED STATES COLONIAL MARINES
