@@ -297,6 +297,8 @@
 
 		# UNIT 7 ALIENS 134
 
+
+
 		```
 		"There's this colony - outbound in
 		the arm - on some Terraformed rock-
@@ -322,6 +324,7 @@
 
 		- L/Cpl Jim Kasulka, USCM
 
+		```
 
 		# THE UNITED STATES COLONIAL MARINES
 
@@ -385,5 +388,70 @@
 		colonies within the frontiers of the Network. Operating in tandem with local
 		forces, the USCM is often the first line of defense and the vanguard of any coun-
 		terattack
+
+		```
+		"I wouldn't believe it if I hadn't been there. We dropped screaming onto Cristobal,
+		capturing the spaceport and shield colony and spreading out into the countryside. By
+		nightfall we held half the continent out to the gulf stream. We all felt so studly with
+		our armor and firepower. Psyops broadcast to everyone that Hetos was a schmuck and a
+		crook and that we were there to nail his ass, like we were no more than some simple
+		shamus come around the block to slap the cuffs on a persistent offender. We had some tiny
+		contingents of Panamanians and Argentines with us to wave the UA flag and yell at anyone
+		who'd listen that this was a joint op, legally enacted under the provisions of the
+		Washington Treaty. A lot of people bought that one, just like they bought Space Command's
+		estimate of 254 locals dead. Meanwhile, the cadavers of five hundread colonial militamen
+		and over fifteen hundred civillians were bulldozed by USCM engineers into mass
+		graves and seeded with vicious bacterias designed to turn them into pools of goo.
+		"Nobody at homegave a damn. No one even asked who was accountable. Media Coverage was
+		limited to the four marines who came home in boxes draped with Old Glory, and some form-
+		letter UAAC annoucement about the 'restoration of public order'. Meanwhile, the AmArc
+		corporate suits who'd rode shotgun on the assault quietly secured the wellheads and then
+		ordered us to bust the worker's strike with CS gas and baton rounds. We complied.
+		"Three months after the mission, AmArc annouced a record share dividend. On that day
+		I resigned my commission."
+
+		Patrice Riegert, former Captain, USCM
+
+		```
+
+		1.2 ## CORPS ORGANIZATION
+
+		The United States Colonial Marine Corps is broadly split into two parts: the
+		supporting establishment and the operating forces. The supporting establishment
+		includes recruiting, training, research and development, administration and
+		logistical support. This essentially non-fighting part of the Colonial Marine
+		organization is essential if the Corps is to perform its mission. The operating
+		forces are the fighting arm of the marines, organized and maintained as a force=
+		in-readiness. Some 58 percent of all marines are in the operating forces.
+
+		The operating forces are under the direct orders of **US Space Command**, with com-
+		mand posts at Houston, TX and O'Niell station, L-4 Earth-Lunar system. To enable
+		it to project fighting power to the frontiers of the ISC Network and beyond, the
+		Colonial Marine Corps is organized into Marine Space Forces. There are three in
+		all: **Marine Space Force, Sol.** with the responsiblity for operations throughout the
+		core systems; **Marine Space Force, Eridani,** operating out along the American and
+		Chinese colonised arms; and **Marine Space Force, Herculis,** with responsiblity
+		for the Anglo-Japanese arm up to the fringes of the Network. In practice, these
+		are administrative designations, the practicalities of frontier operations
+		requiring the breakdown of operating forces into autonomous taskforces of reg-
+		mental size or less. Additionally, astrometrical realities of colonised space
+		mean that the operating areas frequently intertwine and overlap, so that com-
+		bined operations between the Space Forces are a day-today necessity.
+
+		The Marine Space Forces (MSFs) are intergral parts of the **United States Aerospace
+		Force** fleets, and are subject to the operational control of the fleet comman-
+		ders. The Marine Space Forces contain both ground and aerospace elements trans-
+		ported aboard USASF ships
+
+		The **Colonial Marine Division** is the basic ground element of the Marine Space
+		Force (although MSF, Sol consists of two divisions). It is essentially a bal-
+		anced force of combat, support and service elements. Organized around three
+		infantry regiments, the division is especially designed to executed the orbital
+		assault mission, and is capable of sustained surface operations.
+
+
+
+
+
 	"}
 	live_preview = TRUE
