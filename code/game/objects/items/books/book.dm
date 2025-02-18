@@ -334,7 +334,7 @@
 		line refers to Maj.Gen. Gayls B.Hancock, the legendary commanding
 		officer of the Colonial Marine Officers Candidate school, Quantico, VA
 		during the '60s and Early '70s. The Misery Refer-
-		ence is to Tamburro satation, one of the remotest Marine garrisons,
+		ence is to Tamburro station, one of the remotest Marine garrisons,
 		orbiting Myssa 340 (78 Nu Ceti III).
 
 		```
@@ -351,11 +351,11 @@
 		fight, regardless of their nation's readiness for war, and those who are capable of
 		operating far from their home soil. The Colonial Marine Corps has a dual respon-
 		siblity. First, to serve on land, on sea, in air, and in space; second, to
-		exploit the advantages of readiness and interstellar deployment capablitity.
+		exploit the advantages of readiness and interstellar deployment capability.
 
 
-		The capablitity to project power across the vast reaches of space to the surface
-		of a distant world is an essential element of national startegy, Colonial Marine
+		The capability to project power across the vast reaches of space to the surface
+		of a distant world is an essential element of national strategy, Colonial Marine
 		forces, operating with the space fleet, are the nation's only major means to
 		forcibly enter any hostile area from space. Their versatility and respon-
 		siveness add a significant dimension to the options available to the National
@@ -371,7 +371,7 @@
 		around 50,000, comprising a fifth division and aerospace wing.
 
 
-		The USCM is fully intergrated into the joint command structure of the United
+		The USCM is fully integrated into the joint command structure of the United
 		Americas Allied Command (UAAC) and forms the major striking element of the UA
 		Forces. Within the UAAC, the Colonial Marine Corps is tasked with maintaining
 		the collective security of all UA signatories and their recognized interstellar
@@ -389,15 +389,15 @@
 		contingents of Panamanians and Argentines with us to wave the UA flag and yell at anyone
 		who'd listen that this was a joint op, legally enacted under the provisions of the
 		Washington Treaty. A lot of people bought that one, just like they bought Space Command's
-		estimate of 254 locals dead. Meanwhile, the cadavers of five hundread colonial militamen
-		and over fifteen hundred civillians were bulldozed by USCM engineers into mass
+		estimate of 254 locals dead. Meanwhile, the cadavers of five hundred colonial militamen
+		and over fifteen hundred civilians were bulldozed by USCM engineers into mass
 		graves and seeded with vicious bacterias designed to turn them into pools of goo.
-		"Nobody at homegave a damn. No one even asked who was accountable. Media Coverage was
+		"Nobody at home gave a damn. No one even asked who was accountable. Media Coverage was
 		limited to the four marines who came home in boxes draped with Old Glory, and some form-
-		letter UAAC annoucement about the 'restoration of public order'. Meanwhile, the AmArc
+		letter UAAC announcement about the 'restoration of public order'. Meanwhile, the AmArc
 		corporate suits who'd rode shotgun on the assault quietly secured the wellheads and then
 		ordered us to bust the worker's strike with CS gas and baton rounds. We complied.
-		"Three months after the mission, AmArc annouced a record share dividend. On that day
+		"Three months after the mission, AmArc announced a record share dividend. On that day
 		I resigned my commission."
 
 		Patrice Riegert, former Captain, USCM
@@ -418,9 +418,9 @@
 		mand posts at Houston, TX and O'Niell station, L-4 Earth-Lunar system. To enable
 		it to project fighting power to the frontiers of the ISC Network and beyond, the
 		Colonial Marine Corps is organized into Marine Space Forces. There are three in
-		all: **Marine Space Force, Sol.** with the responsiblity for operations throughout the
+		all: **Marine Space Force, Sol.** with the responsibility for operations throughout the
 		core systems; **Marine Space Force, Eridani,** operating out along the American and
-		Chinese colonised arms; and **Marine Space Force, Herculis,** with responsiblity
+		Chinese colonised arms; and **Marine Space Force, Herculis,** with responsibility
 		for the Anglo-Japanese arm up to the fringes of the Network. In practice, these
 		are administrative designations, the practicalities of frontier operations
 		requiring the breakdown of operating forces into autonomous taskforces of reg-
@@ -428,7 +428,7 @@
 		mean that the operating areas frequently intertwine and overlap, so that com-
 		bined operations between the Space Forces are a day-today necessity.
 
-		The Marine Space Forces (MSFs) are intergral parts of the **United States Aerospace
+		The Marine Space Forces (MSFs) are integral parts of the **United States Aerospace
 		Force** fleets, and are subject to the operational control of the fleet comman-
 		ders. The Marine Space Forces contain both ground and aerospace elements trans-
 		ported aboard USASF ships
@@ -462,7 +462,7 @@
 		**Marine Space Force, Sol** is headquartered at O'Niell station, L-4 Earth-Lunar
 		system. Its major units consist of the **1st Colonial Marine Division, 1st Marine
 		Aerospace Wing** and the **1st Marine Brigade,** stationed in Camp Lejeune, NC; Camp
-		Pendelton, CA; Kennedy ASFB, FL; O'Niell station; and Gateway sation, Earth-
+		Pendelton, CA; Kennedy ASFB, FL; O'Niell station; and Gateway station, Earth-
 		GSO. The **2nd and 3rd Colonial Marine Brigades** and portions of the **2nd Marine
 		Aerospace Wing are based at Redlake Field ASFB and Glenn GSO sation, Aurore 510
 		(Alpha Centauri A V); Ezell ASFB Nene 246 (52 Tau Ceti II); and Titleman sta-
@@ -472,7 +472,7 @@
 
 		**Marine Space Force, Eridani,** is headquartered at Happy Days, Helene 215 (82
 		Eridani II). It comprises the **3rd Colonial Marine Division** and the **3rd Marine
-		Aerospace Wing**, based largerly at Kuat ASFB, Surier 430 (Delta Pavonis IV), and
+		Aerospace Wing**, based largely at Kuat ASFB, Surier 430 (Delta Pavonis IV), and
 
 		at a number of garrison locations along the American arm as far as Thetis (20
 		Reticuli) and the Solomons (Alpha Caeli V b-h).
@@ -480,7 +480,7 @@
 		**Marine Space Force, Herculis,** is headquartered at Chinook 91 GSO station, Georgia
 		525 (70 Ophiuchi A V). This front-line force, comprising the **4th Colonial Marine
 		Division,** the **4th Colonial Marine Brigade,** and the **4th Aerospace Wing** is deployed
-		at a number of UA recognized coolonies through the Anglo-Japanese arm from the
+		at a number of UA recognized colonies through the Anglo-Japanese arm from the
 		outer veil up to the fringes of the ISC Network, which extends approximately 35
 		parsecs along this arm. The largest support contingent includes the **1st Colonial
 		Support Group** at Tithonis Mountain, Bernice 378 (Mu Herculis A III).
@@ -580,6 +580,7 @@
 		but most of those who fail to hack it are simply not technically minded enough."
 
 		- Captain Karen Marquis, Parris Island, SC
+		```
 
 		Officers are inducted at the Officer Candidates School at Camp Barrett, Quantico,
 		VA, though the Colonial Marines continue the ancient tradition of accepting offi-
