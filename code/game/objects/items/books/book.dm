@@ -496,6 +496,143 @@
 
 		##1.4 BADGES AND INSIGNIA
 
+		![Some dice](/logo.png)
+
+		Since its incorporation at the
+		end of the last century, the
+		Colonial Marine Corps has vigor-
+		ously maintained its indepen-
+		dence and its sstrong sense of
+		identity. The battle honors and
+		unit histories of its predes-
+		sor, the old 'amphibious' Corps,
+		were carried forward to the
+		current 'interstellar'
+		Corps, along with many of its
+		traditions. However, some of
+		these - particularly the badges
+		and insignia - have long since
+		passed into history. The current
+		Corps badge is a geometrical
+		design, depicting a launch col-
+		umn of seven stripes - three red
+		and four white - flanked by four
+		white stars against a blue back-
+		ground. Often jokingly referred
+		to as 'Tiptree's wigwam' after the former secretary of
+		defense who approved the design in 2101, it represents
+		the 'pathway to the stars' forged by the Colonial
+		Marines. The three red stripes signify the ablity of
+		the Marines to fight in aerospace, on land and sea,
+		whilst the starfield represents the limitless American
+		frontier.
+
+		![Some dice](/falcon.png)
+
+
+		### Fig.1.3 Shoulder Flash
+
+		The Colonial Marines do not encourage individualized
+		unit badges as the Army does, largely because the
+		Marines prize their unique identity as a service.
+		Individual unit markings are usually limited to provid-
+		ing unit data and ship deployment. However, on distant
+		worlds far from direct command, unofficial unit markings
+		have been known to appear.
+
+
+
+		## 1.5 MARINE RECRUITMENT AND TRAINING
+
+		```
+		"I'd read somewhere that at boot camp the DIs [Drill Instructors] were not allowed to
+		touch, abuse or even curse at the recruits. First day and we've just arrived at the island
+		on the shuttle and this two meter tall Gunnery Sergeant who looks like he drinks rocket
+		fuel and craps lightning gets on board and shouts 'GET OFF THE FREAKING BUS. MOVE!'
+		"'Freaking'. He said 'Freaking'. What kinda pussy word is that? It's the sorta made-up
+		curse they use on video so's not to offend the God-botherers and Hubbard freaks. But the
+		way Gunny says it, it sounds like he's gonna personally pop open your head and spoon out
+		your brains if you so much as look at him funny.
+		"So, we get off the freaking bus..."
+
+		- Recruit Arnie Caulfield, Parris Island, SC
+		```
+
+		To be eligible to join the Colonial Marines a potential recruit is required to
+		be a high school graduate (or the equivalent), have a clean police record, be
+		between 147cm and 200cm tall and pass a physical examination and some simple
+		written tests. Basic training has changed little in three hundred years, and the
+		Colonial Marines still maintain 'Boot' camps for recruit basic training at Parris
+		Island, SC; San Diego, CA; and Guantanamo Bay, CB.
+
+		Statistics show that the average recruit is 178cm tall, weighs 72kg and is a
+		high school graduate. The ratio of women to men in the Corps is approximately
+		1:2.6. of the thousands of recruits that apply to the Corps every year, some 24
+		percent fail to make the grade.
+
+		```
+		"The technical challenge for recruits is intense. In modern Corps we fly starships
+		and aerospace shuttles and carry space-age doohickeys into battle. We need men and women
+		who instinctively understand how these things work, who can learn how to fix them in
+		the field without the aid of a manual, while crouching in a muddy foxhole being pounded by
+		shellfire. Some of the new boots flunk because of the physical or moral requirements, like
+		they can't rappel off tower or they suffer from severe SAS [Space Adaptation Sickness];
+		but most of those who fail to hack it are simply not technically minded enough."
+
+		- Captain Karen Marquis, Parris Island, SC
+
+		Officers are inducted at the Officer Candidates School at Camp Barrett, Quantico,
+		VA, though the Colonial Marines continue the ancient tradition of accepting offi-
+		cers from the 'Blue Water' naval academy at Annapolis, as well as the USASF
+		Aerospace school at Gateway station. After basic training, officers pursue their
+		military speciality. Aerospace crew go to the Aerospace schools at Gateway sta-
+		tion or Kennedy ASFB, FL; artillery officers go to the Army field artillery
+		school in Fort Sill, OK; armor specialists go to Fort Knox, KY; however, infantry
+		officers take the specialized infantry course at Quantico and an advanced hos-
+		tile environments course at Camp Hanneken, Valles Marineris, Mars.
+
+		```
+		"We still get asked whether there is racism or sexism in the Colonial Marines. I say
+		no. We have 'light green' Marines, we have 'dark green' Marines and we have 'bumpy'
+		Marines; but they're all MARINES!"
+
+		-Brigadier General Mike 'Dancing Bear' Norrbom, CO 2nd Marine Brigade
+		```
+
+
+		```
+		"I heard they sent a section from
+		the 2/9th into some jerkwater sink
+		hole in the American Arm. Apparently
+		their loot got 'em wasted by a hord
+		o' bugs."
+		"Bugs, bugs, BIIIG bugs!"
+		"Hey Sarge, I keep seeing bugs
+		everywhere, getting' in my bunk, my
+		chow, my jockeys. They talk to me in
+		my sleep an' tell me to frag all my
+		Marine buddies an' 'specially that
+		big badass sergeant, 'cuz he don'
+		like bugs - he 'aint friendly t 'my
+		lil' bug buddies. Maybe I should see
+		the doc about it; maybe I'm ready
+		for Section Eight."
+		"Stow it, Private; iffen that's
+		all you seen, you're still the sanest
+		member of this whole platoon!"
+		"Man, i mean, who's dumb 'nuff to
+		get 'emselves wasted by bugs fer
+		Chrissake?"
+		"I tell you who, man - our worst
+		enemy, the most dangerous thing in
+		the whole goddamn universe - th'
+		officer in charge!"
+
+		- Marines of 1st Platoon,
+		Bravo Company, 2/7 Colonial Marine
+		```
+
+
 
 
 	"}
