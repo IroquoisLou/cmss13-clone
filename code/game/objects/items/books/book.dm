@@ -278,24 +278,14 @@
 	book_contents = @{"
 
 		# UNIT 1:THE UNITED STATES MARINE CORPS  6
-
-
 		# UNIT 2:COLONIAL MARINE INFANTRY 12
-
-
 		# UNIT 3:AEROSPACE OPERATIONS 40
-
-
 		# UNIT 4:HEAVY WEAPONS AND ARMOR 68
-
-
 		# UNIT 5:COMBAT SUPPORT 92
-
-
 		# UNIT 6:SPACE TRANSPORT 116
-
-
 		# UNIT 7 ALIENS 134
+
+
 
 
 
@@ -414,7 +404,7 @@
 
 		```
 
-		1.2 ## CORPS ORGANIZATION
+		## 1.2 CORPS ORGANIZATION
 
 		The United States Colonial Marine Corps is broadly split into two parts: the
 		supporting establishment and the operating forces. The supporting establishment
@@ -450,9 +440,10 @@
 		assault mission, and is capable of sustained surface operations.
 
 
-		```
 		![Some dice](/disposition.png)
-		```
+
+
+
 
 		### Fig.1.1 Marine Space Force Disposition
 
@@ -466,7 +457,7 @@
 		Using the assets of the division, wing and supporting units, the Marine Space
 		Forces can form task organizations of any size appropriate to the mission.
 
-		1.3 ## DISPOSITION AND READINESS
+		## 1.3 DISPOSITION AND READINESS
 
 		**Marine Space Force, Sol** is headquartered at O'Niell station, L-4 Earth-Lunar
 		system. Its major units consist of the **1st Colonial Marine Division, 1st Marine
@@ -503,7 +494,7 @@
 		mainly in the continental United States and Panama, Earth, though two reserve
 		regiments can be raised on Aurore 510.
 
-		1.4 ## BADGES AND INSIGNIA
+		##1.4 BADGES AND INSIGNIA
 
 
 
