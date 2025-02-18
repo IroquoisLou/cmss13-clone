@@ -273,21 +273,45 @@
 	live_preview = TRUE
 
 /obj/item/lore_book/tman_page
-	book_title = "United States Colonial Marines: Technical Manual"
+	book_title = "United States Colonial Marines: Technical Manual, Unit 1"
 	book_author = "L.B Wood"
 	book_contents = @{"
 
 		# UNIT 1:THE UNITED STATES MARINE CORPS  6
+
+
+		<br>
+
 		# UNIT 2:COLONIAL MARINE INFANTRY 12
+
+
+		<br>
+
 		# UNIT 3:AEROSPACE OPERATIONS 40
+
+		<br>
+
+
 		# UNIT 4:HEAVY WEAPONS AND ARMOR 68
+
+
+		<br>
+
 		# UNIT 5:COMBAT SUPPORT 92
+
+
+		<br>
+
 		# UNIT 6:SPACE TRANSPORT 116
+
+		<br>
+
+
+
 		# UNIT 7 ALIENS 134
-
-
-
-
+		<br>
+		<br>
+		<br>
 
 		```
 		"There's this colony - outbound in
@@ -315,7 +339,9 @@
 		- L/Cpl Jim Kasulka, USCM
 
 		```
-
+		<br>
+		<br>
+		<br>
 		# THE UNITED STATES COLONIAL MARINES
 
 		# 1.0 THE CORPS
@@ -338,9 +364,18 @@
 		orbiting Myssa 340 (78 Nu Ceti III).
 
 		```
-
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
 
 		## 1.1 THE UNITED STATES COLONIAL MARINES (USCM)
+
 
 		The **United States Colonial Marine Corps** is America's interstellar force-in-
 		readiness. This role, distinct from that of the US Army, stems from the coun-
@@ -361,6 +396,14 @@
 		siveness add a significant dimension to the options available to the National
 		Command Authority in time of crisis
 
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+
 
 		The National Security Act of 2101 established the Colonial Marines structure as
 		four combat divisions and four aerospace wings, plus the support services organ-
@@ -369,40 +412,94 @@
 		the century, though this has declined from a peak of 240,000 in FY 2165 at the
 		end of the Tientsin (8 Eta Bootis A III) campaign. Reserve manpower stands at
 		around 50,000, comprising a fifth division and aerospace wing.
-
+		<br>
 
 		The USCM is fully integrated into the joint command structure of the United
 		Americas Allied Command (UAAC) and forms the major striking element of the UA
 		Forces. Within the UAAC, the Colonial Marine Corps is tasked with maintaining
 		the collective security of all UA signatories and their recognized interstellar
 		colonies within the frontiers of the Network. Operating in tandem with local
-		forces, the USCM is often the first line of defense and the vanguard of any coun-
-		terattack
+		forces, the USCM is often the first line of defense and the vanguard of any counterattack
+		<br>
+
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+
+
 
 		```
-		"I wouldn't believe it if I hadn't been there. We dropped screaming onto Cristobal,
-		capturing the spaceport and shield colony and spreading out into the countryside. By
-		nightfall we held half the continent out to the gulf stream. We all felt so studly with
-		our armor and firepower. Psyops broadcast to everyone that Hetos was a schmuck and a
-		crook and that we were there to nail his ass, like we were no more than some simple
-		shamus come around the block to slap the cuffs on a persistent offender. We had some tiny
-		contingents of Panamanians and Argentines with us to wave the UA flag and yell at anyone
-		who'd listen that this was a joint op, legally enacted under the provisions of the
-		Washington Treaty. A lot of people bought that one, just like they bought Space Command's
-		estimate of 254 locals dead. Meanwhile, the cadavers of five hundred colonial militamen
-		and over fifteen hundred civilians were bulldozed by USCM engineers into mass
-		graves and seeded with vicious bacterias designed to turn them into pools of goo.
-		"Nobody at home gave a damn. No one even asked who was accountable. Media Coverage was
-		limited to the four marines who came home in boxes draped with Old Glory, and some form-
-		letter UAAC announcement about the 'restoration of public order'. Meanwhile, the AmArc
-		corporate suits who'd rode shotgun on the assault quietly secured the wellheads and then
-		ordered us to bust the worker's strike with CS gas and baton rounds. We complied.
-		"Three months after the mission, AmArc announced a record share dividend. On that day
+		"I wouldn't believe it if I hadn't been there. We dropped screaming
+		onto Cristobal, capturing the spaceport and shield colony and spreading
+		out into the countryside.
+		By nightfall we held half the continent out to the gulf stream.
+		We all felt so studly with our armor and firepower.
+		Psyops broadcast to everyone that Hetos was a schmuck and a crook
+		and that we were there to nail his ass, like we were no more than
+		some simple shamus come around the block to slap the cuffs
+		on a persistent offender.
+		We had some tiny contingents of Panamanians and Argentines with us
+		to wave the UA flag and yell at anyone who'd listen that this was a
+		joint op, legally enacted under the provisions of the
+		Washington Treaty.
+		A lot of people bought that one, just like they bought Space Command's
+		estimate of 254 locals dead.
+		Meanwhile, the cadavers of five hundred colonial militamen
+		and over fifteen hundred civilians were
+		bulldozed by USCM engineers into mass
+		graves and seeded with vicious bacterias designed to turn
+		them into pools of goo."
+
+		```
+
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+
+
+
+
+		```
+
+		"Nobody at home gave a damn.
+		No one even asked who was accountable.
+		Media Coverage was limited to the four marines who came home in boxes
+		draped with Old Glory, and some form-
+		letter UAAC announcement about the 'restoration of public order'.
+		Meanwhile, the AmArc corporate suits who'd rode shotgun on the assault
+		quietly secured the wellheads and then ordered us to bust the worker's
+		strike with CS gas and baton rounds.
+		We complied."
+
+		"Three months after the mission,
+		AmArc announced a record share dividend.
+		On that day
 		I resigned my commission."
 
-		Patrice Riegert, former Captain, USCM
+		-Patrice Riegert, former Captain, USCM
 
 		```
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
 
 		## 1.2 CORPS ORGANIZATION
 
@@ -425,8 +522,12 @@
 		are administrative designations, the practicalities of frontier operations
 		requiring the breakdown of operating forces into autonomous taskforces of reg-
 		mental size or less. Additionally, astrometrical realities of colonised space
-		mean that the operating areas frequently intertwine and overlap, so that com-
-		bined operations between the Space Forces are a day-today necessity.
+		mean that the operating areas frequently intertwine and overlap, so that combined operations between the Space Forces are a day-today necessity.
+
+		<br>
+		<br>
+		<br>
+		<br>
 
 		The Marine Space Forces (MSFs) are integral parts of the **United States Aerospace
 		Force** fleets, and are subject to the operational control of the fleet comman-
@@ -438,6 +539,22 @@
 		anced force of combat, support and service elements. Organized around three
 		infantry regiments, the division is especially designed to executed the orbital
 		assault mission, and is capable of sustained surface operations.
+
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+
 
 
 		![Some dice](/disposition.png)
@@ -494,7 +611,7 @@
 		mainly in the continental United States and Panama, Earth, though two reserve
 		regiments can be raised on Aurore 510.
 
-		##1.4 BADGES AND INSIGNIA
+		## 1.4 BADGES AND INSIGNIA
 
 		![Some dice](/logo.png)
 
