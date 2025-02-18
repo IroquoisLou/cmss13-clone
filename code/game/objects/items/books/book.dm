@@ -450,6 +450,11 @@
 		assault mission, and is capable of sustained surface operations.
 
 
+		```
+		![Some dice](/disposition.png)
+		```
+
+		### Fig.1.1 Marine Space Force Disposition
 
 
 
