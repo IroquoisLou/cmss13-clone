@@ -456,6 +456,55 @@
 
 		### Fig.1.1 Marine Space Force Disposition
 
+		The **Colonial Marine Aerospace Wing** is the aerospace combat element of the Marine
+		Space Force. Designed for aerospace support and the airmobility mission, the
+		aerospace wing is essentially an administrative formation, since much of its
+		fighting strength is directly attached to the Colonial Marine division.
+		Typically, a Marine aerospace wing operates some 300 dropships, 30 heavy-lift
+		shuttles and 100 strikeships.
+
+		Using the assets of the division, wing and supporting units, the Marine Space
+		Forces can form task organizations of any size appropriate to the mission.
+
+		1.3 ## DISPOSITION AND READINESS
+
+		**Marine Space Force, Sol** is headquartered at O'Niell station, L-4 Earth-Lunar
+		system. Its major units consist of the **1st Colonial Marine Division, 1st Marine
+		Aerospace Wing** and the **1st Marine Brigade,** stationed in Camp Lejeune, NC; Camp
+		Pendelton, CA; Kennedy ASFB, FL; O'Niell station; and Gateway sation, Earth-
+		GSO. The **2nd and 3rd Colonial Marine Brigades** and portions of the **2nd Marine
+		Aerospace Wing are based at Redlake Field ASFB and Glenn GSO sation, Aurore 510
+		(Alpha Centauri A V); Ezell ASFB Nene 246 (52 Tau Ceti II); and Titleman sta-
+		tion, L-1 Lucien-Avril system (Lacaille 8760 IV). Support elements consisting of
+		**Force Troops, Sol,** and the **2nd Colonial Support Group** are located in North
+		Carolina, Florida and the Trobriands, Nene 246.
+
+		**Marine Space Force, Eridani,** is headquartered at Happy Days, Helene 215 (82
+		Eridani II). It comprises the **3rd Colonial Marine Division** and the **3rd Marine
+		Aerospace Wing**, based largerly at Kuat ASFB, Surier 430 (Delta Pavonis IV), and
+
+		at a number of garrison locations along the American arm as far as Thetis (20
+		Reticuli) and the Solomons (Alpha Caeli V b-h).
+
+		**Marine Space Force, Herculis,** is headquartered at Chinook 91 GSO station, Georgia
+		525 (70 Ophiuchi A V). This front-line force, comprising the **4th Colonial Marine
+		Division,** the **4th Colonial Marine Brigade,** and the **4th Aerospace Wing** is deployed
+		at a number of UA recognized coolonies through the Anglo-Japanese arm from the
+		outer veil up to the fringes of the ISC Network, which extends approximately 35
+		parsecs along this arm. The largest support contingent includes the **1st Colonial
+		Support Group** at Tithonis Mountain, Bernice 378 (Mu Herculis A III).
+
+		All Colonial Marine units are kept in an advance state of readiness, ready to
+		respond to all commitments in their theater of operations. Marine Space Force,
+		Sol, is capable of reinforcing either of the other two MSFs and has earmarked
+		the 1st and 2nd Colonial Marine Brigades as well as the 2nd Marine Aerospace
+		Wing for rapid forward deployment. The Colonial Marine reserves, comprising the
+		**5th (provisional) Division** and the attached Reserve Aerospace Wing, are based
+		mainly in the continental United States and Panama, Earth, though two reserve
+		regiments can be raised on Aurore 510.
+
+		1.4 ## BADGES AND INSIGNIA
+
 
 
 	"}
