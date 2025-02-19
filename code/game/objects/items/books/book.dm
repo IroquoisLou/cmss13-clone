@@ -544,23 +544,6 @@
 		<br>
 		<br>
 		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-
-
-
-		![Some dice](/disposition.png)
-
-
-
 
 		### Fig.1.1 Marine Space Force Disposition
 
@@ -613,7 +596,7 @@
 
 		## 1.4 BADGES AND INSIGNIA
 
-		![Some dice](/logo.png)
+
 
 		Since its incorporation at the
 		end of the last century, the
@@ -644,7 +627,7 @@
 		whilst the starfield represents the limitless American
 		frontier.
 
-		![Some dice](/falcon.png)
+
 
 
 		### Fig.1.3 Shoulder Flash
