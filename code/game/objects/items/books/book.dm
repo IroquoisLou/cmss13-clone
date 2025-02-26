@@ -276,7 +276,6 @@
 	book_title = "United States Colonial Marines: Technical Manual, Unit 1"
 	book_author = "L.B Wood"
 	book_contents = @{"
-
 		# UNIT 1:THE UNITED STATES MARINE CORPS  6
 
 
@@ -308,7 +307,7 @@
 
 
 
-		# UNIT 7 ALIENS 134
+		# UNIT 7:ALIENS 134
 		<br>
 		<br>
 		<br>
@@ -544,6 +543,14 @@
 		<br>
 		<br>
 		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
 
 		### Fig.1.1 Marine Space Force Disposition
 
@@ -577,6 +584,11 @@
 		at a number of garrison locations along the American arm as far as Thetis (20
 		Reticuli) and the Solomons (Alpha Caeli V b-h).
 
+		<br>
+		<br>
+		<br>
+		<br>
+
 		**Marine Space Force, Herculis,** is headquartered at Chinook 91 GSO station, Georgia
 		525 (70 Ophiuchi A V). This front-line force, comprising the **4th Colonial Marine
 		Division,** the **4th Colonial Marine Brigade,** and the **4th Aerospace Wing** is deployed
@@ -596,7 +608,10 @@
 
 		## 1.4 BADGES AND INSIGNIA
 
-
+		<br>
+		<br>
+		<br>
+		<br>
 
 		Since its incorporation at the
 		end of the last century, the
@@ -640,7 +655,10 @@
 		worlds far from direct command, unofficial unit markings
 		have been known to appear.
 
-
+		<br>
+		<br>
+		<br>
+		<br>
 
 		## 1.5 MARINE RECRUITMENT AND TRAINING
 
@@ -718,6 +736,16 @@
 		lil' bug buddies. Maybe I should see
 		the doc about it; maybe I'm ready
 		for Section Eight."
+		```
+
+		<br>
+		<br>
+		<br>
+		<br>
+
+
+
+		```
 		"Stow it, Private; iffen that's
 		all you seen, you're still the sanest
 		member of this whole platoon!"
@@ -732,9 +760,6 @@
 		- Marines of 1st Platoon,
 		Bravo Company, 2/7 Colonial Marine
 		```
-
-
-
 
 	"}
 	live_preview = TRUE
